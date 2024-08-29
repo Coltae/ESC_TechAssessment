@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\dto\\employeeinformtiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\dto\\employeeinformtiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\models\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\models\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\models\\dependent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\models\\dependent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\dto\\dependentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\dto\\dependentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\colteavesesctechassessment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\colteavesesctechassessment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|c:\\source\\assessments\\colteavesesctechassessment\\colteavesesctechassessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E19952E-1D5C-466B-A980-2E7539D0B406}|ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj|solutionrelative:colteavesesctechassessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Models\\Region.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Region.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Models\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:05:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:08:20.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountryDTO.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\CountryDTO.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\DTO\\CountryDTO.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\CountryDTO.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\DTO\\CountryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:02:10.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeInformtionDTO.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\EmployeeInformtionDTO.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\DTO\\EmployeeInformtionDTO.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\EmployeeInformtionDTO.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\DTO\\EmployeeInformtionDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:54:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegionDTO.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\RegionDTO.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\DTO\\RegionDTO.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\RegionDTO.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\DTO\\RegionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:01:50.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dependent.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Dependent.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Models\\Dependent.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Dependent.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Models\\Dependent.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:23:19.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Models\\Employee.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Employee.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Models\\Employee.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAywDcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:23:25.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Program.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Program.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Program.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:26:40.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\DTO\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\DepartmentDTO.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\DTO\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:00:53.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependentDTO.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\DependentDTO.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\DTO\\DependentDTO.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\DependentDTO.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\DTO\\DependentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:57:03.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocationDTO.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\LocationDTO.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\DTO\\LocationDTO.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\LocationDTO.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\DTO\\LocationDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:01:14.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Models\\Location.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Location.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Models\\Location.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:04:20.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Models\\Job.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Job.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:03:53.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobDTO.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\JobDTO.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\DTO\\JobDTO.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\DTO\\JobDTO.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\DTO\\JobDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:00:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Models\\Department.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Department.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Models\\Department.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:03:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Models\\Country.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\Country.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:17:07.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColtEavesESCTechAssessment.csproj",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T20:54:17.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\appsettings.json",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\appsettings.json",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\appsettings.json",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T19:06:12.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoreDbContext.cs",
+              "DocumentMoniker": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\CoreDbContext.cs",
+              "RelativeDocumentMoniker": "ColtEavesESCTechAssessment\\Models\\CoreDbContext.cs",
+              "ToolTip": "C:\\Source\\assessments\\ColtEavesESCTechAssessment\\ColtEavesESCTechAssessment\\Models\\CoreDbContext.cs",
+              "RelativeToolTip": "ColtEavesESCTechAssessment\\Models\\CoreDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:05:51.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
